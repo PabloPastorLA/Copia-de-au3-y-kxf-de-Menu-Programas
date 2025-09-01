@@ -1,0 +1,6 @@
+ShellExecute('Ncpa.cpl')
+	WinWait('Conexiones de red')
+	WinActivate('Conexiones de red')
+	WinWaitActive('Conexiones de red')
+	send('{space}{right}{altdown}{enter}{altup}')
+;~ 	send('{shiftdown}{tab}{tab}{shiftup}{right}')

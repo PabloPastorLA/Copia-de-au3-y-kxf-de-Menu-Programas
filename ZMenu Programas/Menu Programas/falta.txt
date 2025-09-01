@@ -1,0 +1,24 @@
+ACTOFF2010 DEBE QUITAR C:\ActOff2010Reinicio DE NOD
+
+
+
+
+PAQ FDM NO HAY ACCESO DE ESCRITURA EN W10 (VER SI FALTA REQUIREADMIN)
+paq fdm cuando falla descarga en c:\downloads. no se en cual guarda los temporales. al usar paq fdm y cerrar avisar si es que hay archivos en c:\downloads
+
+
+ 
+verificar extension webp. lo agregue a extensiones para w7 y para w10
+
+
+
+
+
+MENUVERIFICAR:   HACER GUI CON ALGO ROJO Y VERDE Y UN LISTADO DE CHEQUEOS. A MEDIDA QUE SE VA CHEQUEANDO SE PASA A VERDE
+ESTE GUI DEBE SER APARTE EJ: MENUVERIFICARGUI.AU3 PARA QUE CUANDO SE CIERRE MENUVERIFICAR, ESTE GUI SIGA EN PIE
+LAS VENTANITAS DE MENUVERIFICAR PUEDEN IR CAMBIANDO LOS ESTADOS DE ROJO (O TAL VEZ GRIS) A VERDE
+
+validar w10, validar office 10 13 16, halted y halted en paq deben generar exclusion en nod y en security essential
+
+
++++ en prueba +++ icon cache rebuild a veces se cuelga. que se cierre en lugar de colgarse

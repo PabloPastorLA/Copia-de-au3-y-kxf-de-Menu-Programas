@@ -1,0 +1,1 @@
+ShellExecuteWait('dpinst.exe',' /q','USB RED')

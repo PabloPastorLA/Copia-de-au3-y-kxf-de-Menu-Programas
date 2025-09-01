@@ -1,0 +1,11 @@
+Cualquier cosa que falte agregar al sysprepear una maquina virtual agregar acá :
+
+reinstalar usb safely remove, hice cambios para que no aparezca ventana de unidades vacias
+reinstalar los net frameworks, agregue muchos de la version 4
+
+al instalarse en maquina virtual se debe crear el archivo sysprpped en la carpta de programfiles. así siempre puede leerlo menu al abrir, y no leer del escritorio que si se borra fue
+
+al instalar la 2da parte en w10 debe correr extensiones
+CHROME Y FIREFOX CAMBIAR EN IMAGENES
+
+
